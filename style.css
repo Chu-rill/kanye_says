@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.kanye {
+  cursor: pointer;
+  margin-left: 130px;
+  margin-top: 50px;
+}
+.body {
+  width: 450px;
+  height: 300px;
+  background-color: color-mix(in srgb, white, gray 10%);
+  box-shadow: 10px 10px 10px black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1 {
+  text-align: center;
+}
